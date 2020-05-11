@@ -1,4 +1,5 @@
 {
     "name": "alex-gatsby-source-pismic-graphql",
-    "private": true
+    "private": true,
+    "version": "1.0.0"
 }
